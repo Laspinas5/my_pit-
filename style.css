@@ -1,0 +1,9 @@
+<style>
+.wf-loading h1 {
+  visibility: hidden;
+}
+
+.wf-active h1, .wf-inactive h1 {
+  visibility: visible;
+}
+</style>
